@@ -11,7 +11,7 @@ public class RobotWalker {
 	int curY=0;
 	int xAxisMoves=0;
 	int yAxisMoves=0;
-	// this keeps track of which why the cursor would move
+	// this keeps track of which way the cursor would move
 	int posNeg = 1;
 	List<Integer> locArray = new ArrayList();
 	
